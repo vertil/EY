@@ -1,0 +1,4 @@
+﻿  Rand100.cpp
+F:\bork\EY\Rand100\Rand100\Rand100.cpp(16,23): warning C4018: '<': signed/unsigned mismatch
+F:\bork\EY\Rand100\Rand100\Rand100.cpp(64,9): warning C4101: 'numofDel': unreferenced local variable
+  Rand100.vcxproj -> F:\bork\EY\Rand100\Debug\Rand100.exe
